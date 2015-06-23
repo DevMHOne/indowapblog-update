@@ -1,0 +1,23 @@
+{
+	"2.0.0": {
+		"version": "2.0.1",
+		"updated": "2015-06-23 16:55:58",
+		"file": "https:\/\/sites.google.com\/site\/achunk17\/php-scripts\/indowapblog\/IWB_Update_2.0.0-2.0.1.zip?attredirects=0&d=1",
+		"changelog": ["Perbaikan kesalahan - kesalahan"],
+		"message": "Karena IWB dibuat pada localhost dengan OS Windows jadi perlu disesuaikan dengan hosting yang menggunakan OS Linux."
+	},
+	"2.0.1": {
+		"version": "2.0.2",
+		"updated": "2015-06-23 19:25:30",
+		"file": "https:\/\/sites.google.com\/site\/achunk17\/php-scripts\/indowapblog\/IWB_Update_2.0.1-2.0.2.zip?attredirects=0&d=1",
+		"changelog": ["Perbaikan bugs"],
+		"message": "Merubah nama class Blog_Catalog.php ke Blog_catalog.php"
+	},
+	"2.0.2": {
+		"version": "2.0.3",
+		"updated": "2015-06-23 23:08:44",
+		"file": "https:\/\/sites.google.com\/site\/achunk17\/php-scripts\/indowapblog\/IWB_Update_2.0.2-2.0.3.zip?attredirects=0&d=1",
+		"changelog": ["Merubah nama Phpmyrraph.php ke Phpmygraph.php", "Memperbaiki kesalahan pada indowapblog_helper.php line 139"],
+		"message": ""
+	}
+}
