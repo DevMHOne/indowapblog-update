@@ -26,5 +26,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.3-2.0.4.zip",
 		"changelog": ["Perbaikan bugs", "Merubah URL pembaruan IWB", "Menambahkan fitur Kredit"],
 		"message": ""
+	},
+	"2.0.4": {
+		"version": "2.0.5",
+		"updated": "2015-06-25 16:10:55",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.4-2.0.5.zip",
+		"changelog": ["Update GeoIP"],
+		"message": "Sebagian situs bermasalah dengan modul GeoIp, dan problem ternyata dari script GeoIp yang notabene bukan buatan Saya."
 	}
 }
