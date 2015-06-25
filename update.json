@@ -33,5 +33,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.4-2.0.5.zip",
 		"changelog": ["Update GeoIP"],
 		"message": "Sebagian situs bermasalah dengan modul GeoIp, dan problem ternyata dari script GeoIp yang notabene bukan buatan Saya."
+	},
+	"2.0.5": {
+		"version": "2.0.6",
+		"updated": "2015-06-25 18:39:15",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.5-2.0.6.zip",
+		"changelog": ["Memperbarui CONSTANT GeoIP", "Memperbaru admin panel"],
+		"message": ""
 	}
 }
