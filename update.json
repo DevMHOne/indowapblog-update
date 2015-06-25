@@ -19,5 +19,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.2-2.0.3.zip",
 		"changelog": ["Merubah nama Phpmyrraph.php ke Phpmygraph.php", "Memperbaiki kesalahan pada indowapblog_helper.php line 139"],
 		"message": ""
+	},
+	"2.0.3": {
+		"version": "2.0.4",
+		"updated": "2015-06-25 11:37:09",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.3-2.0.4.zip",
+		"changelog": ["Perbaikan bugs", "Merubah URL pembaruan IWB", "Menambahkan fitur Kredit"],
+		"message": ""
 	}
 }
