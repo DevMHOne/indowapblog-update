@@ -40,5 +40,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.5-2.0.6.zip",
 		"changelog": ["Memperbarui CONSTANT GeoIP", "Memperbaru admin panel"],
 		"message": ""
+	},
+	"2.0.6": {
+		"version": "2.0.7",
+		"updated": "2015-06-27 19:36:18",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.6-2.0.7.zip",
+		"changelog": ["Perbaikan kesalahan", "Menambahkan fitur pengaturan pembaruan IndoWapBlog"],
+		"message": ""
 	}
 }
