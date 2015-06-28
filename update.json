@@ -47,5 +47,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.6-2.0.7.zip",
 		"changelog": ["Perbaikan kesalahan", "Menambahkan fitur pengaturan pembaruan IndoWapBlog"],
 		"message": ""
+	},
+	"2.0.7": {
+		"version": "2.0.8",
+		"updated": "2015-06-28 03:48:59",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.7-2.0.8.zip",
+		"changelog": ["Perbaikan kesalahan"],
+		"message": ""
 	}
 }
