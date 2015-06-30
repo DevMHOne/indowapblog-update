@@ -54,5 +54,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.7-2.0.8.zip",
 		"changelog": ["Perbaikan kesalahan"],
 		"message": ""
+	},
+	"2.0.8": {
+		"version": "2.0.9",
+		"updated": "2015-06-30 18:08:07",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.8-2.0.9.zip",
+		"changelog": ["Perbaikan bugs pada share template"],
+		"message": ""
 	}
 }
