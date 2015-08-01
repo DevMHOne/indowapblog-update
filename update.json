@@ -68,5 +68,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.9-2.0.10.zip",
 		"changelog": ["Perbaikan kesalahan", "Menambahkan pengaturan penempatan iklan di semua blog", "Menambahkan pengaturan perijinan penggunaan Javascript", "Menambahkan fitur penarikan kredit"],
 		"message": ""
+	},
+	"2.0.10": {
+		"version": "2.0.11",
+		"updated": "2015-08-01 07:59:08",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.10-2.0.11.zip",
+		"changelog": ["Perbaikan kesalahan pada fitur penarikan kredit"],
+		"message": "Segera update ke versi ini karena terjadi kesalahan besar pada fitur penarikan kredit."
 	}
 }
