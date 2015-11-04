@@ -75,5 +75,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.10-2.0.11.zip",
 		"changelog": ["Perbaikan kesalahan pada fitur penarikan kredit"],
 		"message": "Segera update ke versi ini karena terjadi kesalahan besar pada fitur penarikan kredit."
+	},
+	"2.0.11": {
+		"version": "2.0.12",
+		"updated": "2015-11-04 12:43:56",
+		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.11-2.0.12.zip",
+		"changelog": ["Perbaikan kesalahan pada halaman lupa kata sandi"],
+		"message": ""
 	}
 }
