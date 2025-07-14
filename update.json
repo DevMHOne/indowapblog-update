@@ -2,84 +2,84 @@
 	"2.0.0": {
 		"version": "2.0.1",
 		"updated": "2015-06-23 16:55:58",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.0-2.0.1.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.0-2.0.1.zip",
 		"changelog": ["Perbaikan kesalahan - kesalahan"],
 		"message": "Karena IWB dibuat pada localhost dengan OS Windows jadi perlu disesuaikan dengan hosting yang menggunakan OS Linux."
 	},
 	"2.0.1": {
 		"version": "2.0.2",
 		"updated": "2015-06-23 19:25:30",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.1-2.0.2.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.1-2.0.2.zip",
 		"changelog": ["Perbaikan bugs"],
 		"message": "Merubah nama class Blog_Catalog.php ke Blog_catalog.php"
 	},
 	"2.0.2": {
 		"version": "2.0.3",
 		"updated": "2015-06-23 23:08:44",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.2-2.0.3.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.2-2.0.3.zip",
 		"changelog": ["Merubah nama Phpmyrraph.php ke Phpmygraph.php", "Memperbaiki kesalahan pada indowapblog_helper.php line 139"],
 		"message": ""
 	},
 	"2.0.3": {
 		"version": "2.0.4",
 		"updated": "2015-06-25 11:37:09",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.3-2.0.4.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.3-2.0.4.zip",
 		"changelog": ["Perbaikan bugs", "Merubah URL pembaruan IWB", "Menambahkan fitur Kredit"],
 		"message": ""
 	},
 	"2.0.4": {
 		"version": "2.0.5",
 		"updated": "2015-06-25 16:10:55",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.4-2.0.5.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.4-2.0.5.zip",
 		"changelog": ["Update GeoIP"],
 		"message": "Sebagian situs bermasalah dengan modul GeoIp, dan problem ternyata dari script GeoIp yang notabene bukan buatan Saya."
 	},
 	"2.0.5": {
 		"version": "2.0.6",
 		"updated": "2015-06-25 18:39:15",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.5-2.0.6.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.5-2.0.6.zip",
 		"changelog": ["Memperbarui CONSTANT GeoIP", "Memperbaru admin panel"],
 		"message": ""
 	},
 	"2.0.6": {
 		"version": "2.0.7",
 		"updated": "2015-06-27 19:36:18",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.6-2.0.7.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.6-2.0.7.zip",
 		"changelog": ["Perbaikan kesalahan", "Menambahkan fitur pengaturan pembaruan IndoWapBlog"],
 		"message": ""
 	},
 	"2.0.7": {
 		"version": "2.0.8",
 		"updated": "2015-06-28 03:48:59",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.7-2.0.8.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.7-2.0.8.zip",
 		"changelog": ["Perbaikan kesalahan"],
 		"message": ""
 	},
 	"2.0.8": {
 		"version": "2.0.9",
 		"updated": "2015-06-30 18:08:07",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.8-2.0.9.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.8-2.0.9.zip",
 		"changelog": ["Perbaikan bugs pada share template"],
 		"message": ""
 	},
 	"2.0.9": {
 		"version": "2.0.10",
 		"updated": "2015-08-01 07:32:08",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.9-2.0.10.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.9-2.0.10.zip",
 		"changelog": ["Perbaikan kesalahan", "Menambahkan pengaturan penempatan iklan di semua blog", "Menambahkan pengaturan perijinan penggunaan Javascript", "Menambahkan fitur penarikan kredit"],
 		"message": ""
 	},
 	"2.0.10": {
 		"version": "2.0.11",
 		"updated": "2015-08-01 07:59:08",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.10-2.0.11.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.10-2.0.11.zip",
 		"changelog": ["Perbaikan kesalahan pada fitur penarikan kredit"],
 		"message": "Segera update ke versi ini karena terjadi kesalahan besar pada fitur penarikan kredit."
 	},
 	"2.0.11": {
 		"version": "2.0.12",
 		"updated": "2015-11-04 12:43:56",
-		"file": "https:\/\/raw.githubusercontent.com\/achunk17\/IndoWapBlog-Update\/master\/IWB_Update_2.0.11-2.0.12.zip",
+		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.11-2.0.12.zip",
 		"changelog": ["Perbaikan kesalahan pada halaman lupa kata sandi"],
 		"message": ""
 	}
