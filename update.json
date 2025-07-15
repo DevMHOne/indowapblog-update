@@ -82,5 +82,12 @@
 		"file": "https:\/\/raw.githubusercontent.com\/DevMHOne\/IndoWapBlog-Update\/master\/IWB_Update_2.0.11-2.0.12.zip",
 		"changelog": ["Perbaikan kesalahan pada halaman lupa kata sandi"],
 		"message": ""
+	},
+	"2.0.12": {
+		"version": "2.0.13",
+		"updated": "2025-07-15 12:43:56",
+		"file": "",
+		"changelog": [Update Versi Php ke php 8.3"],
+		"message": "Update Versi Php ke php 8.3"
 	}
 }
